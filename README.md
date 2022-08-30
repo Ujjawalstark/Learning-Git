@@ -19,6 +19,8 @@ India have it,s own army. There are over 1.4 million soliders in Indian Army. </
 </ol>
 <marquee> Indians want to leave India </marquee>
 <pre> and many more... </pre>
+  <ol>
+    <li>
 </body>
 </head>
 </html>
